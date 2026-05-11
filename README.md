@@ -51,4 +51,4 @@ Outputs:
 
 ## Tools
 
-Python · pandas · NumPy · Matplotlib · UCI ML Repository
+Python · pandas · NumPy · Matplotlib
